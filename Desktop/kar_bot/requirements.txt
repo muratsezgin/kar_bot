@@ -1,0 +1,13 @@
+requests
+pandas
+numpy
+ta
+scikit-learn
+aiohttp
+lightgbm
+tqdm
+joblib
+ccxt
+websockets
+pandas_ta
+pytz
