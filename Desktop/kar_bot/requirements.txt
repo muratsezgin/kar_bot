@@ -9,5 +9,5 @@ tqdm
 joblib
 ccxt
 websockets
-pandas_ta
+pandas-ta
 pytz
